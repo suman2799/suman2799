@@ -71,7 +71,7 @@
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&labelColor=black&logo=xampp&logoColor=white"/></a>  
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&labelColor=blacklogo=Eclipse&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&labelColor=black&logo=Eclipse&logoColor=white"/></a>  
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&labelColor=black&logo=apache-netbeans-ide&logoColor=white"/></a>  
 <a href="#" target="_blank">
