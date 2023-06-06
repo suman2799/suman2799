@@ -23,7 +23,7 @@
  ## About Me : 
  
 <p>
-<img align="right" width="350" src="assets/avatar.gif" alt="Coding gif" /> 
+<img align="right" width="350" src="assets/avatar.gif" alt="Coding gif" /> </br>
   
 * :man_student: Pursuing <b>B.Tech. in Computer Science & Engineering</b> at <b>University of Calcutta </b>
 * :envelope_with_arrow: Reach me at : <b><i>suman.debnath.2619@gmail.com</i></b> <br/>
