@@ -48,6 +48,7 @@
 <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&labelColor=black&logo=latex&logoColor=white"/></a>   
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&labelColor=black&logo=markdown&logoColor=white"/></a>   
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=ffdd54"/></a> 
                    
 </td></tr><tr><th>Web Development</th><td>
 
